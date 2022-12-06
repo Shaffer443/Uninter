@@ -1,0 +1,13 @@
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\bin\Debug\JogoSeteDaSorte.exe.config
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\bin\Debug\JogoSeteDaSorte.exe
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\bin\Debug\JogoSeteDaSorte.pdb
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\bin\Debug\JogoSeteDaSorte.xml
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.vbproj.AssemblyReference.cache
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.Form1.resources
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.Resources.resources
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.vbproj.GenerateResource.cache
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.exe
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.xml
+D:\Visual Studio\visualbasic\JogoSeteDaSorte_sln\JogoSeteDaSorte\obj\Debug\JogoSeteDaSorte.pdb
